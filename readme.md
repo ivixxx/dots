@@ -1,7 +1,7 @@
 ## Usage
 Reboot after successfully installing please
 ```css
-git clone https://github.com/29ff9e410db885a38a2e/dots
+git clone https://github.com/ivixxx/dots
 cd dots
 chmod +x install.sh
 ./install.sh
